@@ -1,0 +1,1830 @@
+fileFormatVersion: 2
+guid: 823a3e042e61d06498fc9da06d0b25bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4170519717362406780
+    second: zimaku_02_0
+  - first:
+      213: -2247917785406882117
+    second: zimaku_02_1
+  - first:
+      213: -4271999183097610451
+    second: zimaku_02_2
+  - first:
+      213: 3421118157026127440
+    second: zimaku_02_3
+  - first:
+      213: 124645519813100923
+    second: zimaku_02_4
+  - first:
+      213: 446237036740148059
+    second: zimaku_02_5
+  - first:
+      213: 8915477890948477117
+    second: zimaku_02_6
+  - first:
+      213: 8657516281692648122
+    second: zimaku_02_7
+  - first:
+      213: 3152882140319341851
+    second: zimaku_02_8
+  - first:
+      213: 4946223951256387836
+    second: zimaku_02_9
+  - first:
+      213: 6433450393533621596
+    second: zimaku_02_10
+  - first:
+      213: 387941027373079624
+    second: zimaku_02_11
+  - first:
+      213: -9221323562429080907
+    second: zimaku_02_12
+  - first:
+      213: -7659943855969560273
+    second: zimaku_02_13
+  - first:
+      213: 6598919547203639972
+    second: zimaku_02_14
+  - first:
+      213: -6186741233038235548
+    second: zimaku_02_15
+  - first:
+      213: -6996773592674524130
+    second: zimaku_02_16
+  - first:
+      213: -119685491264215135
+    second: zimaku_02_17
+  - first:
+      213: 597586726646214262
+    second: zimaku_02_18
+  - first:
+      213: 7473501513247160001
+    second: zimaku_02_19
+  - first:
+      213: -6496468368702156897
+    second: zimaku_02_20
+  - first:
+      213: -5250810787279702253
+    second: zimaku_02_21
+  - first:
+      213: -7128054357095435106
+    second: zimaku_02_22
+  - first:
+      213: 597233036646207129
+    second: zimaku_02_23
+  - first:
+      213: 637959702374811132
+    second: zimaku_02_24
+  - first:
+      213: -1684583842241031388
+    second: zimaku_02_25
+  - first:
+      213: 2845318197861999315
+    second: zimaku_02_26
+  - first:
+      213: -3902794232476821134
+    second: zimaku_02_27
+  - first:
+      213: -1783013957686076918
+    second: zimaku_02_28
+  - first:
+      213: 5309889711828162444
+    second: zimaku_02_29
+  - first:
+      213: 6745595693279506911
+    second: zimaku_02_30
+  - first:
+      213: -4289512063869078895
+    second: zimaku_02_31
+  - first:
+      213: 1082191207475793873
+    second: zimaku_02_32
+  - first:
+      213: -4352436227025324677
+    second: zimaku_02_33
+  - first:
+      213: -436941152209215488
+    second: zimaku_02_34
+  - first:
+      213: -2583943974769787077
+    second: zimaku_02_35
+  - first:
+      213: -1648608854839119831
+    second: zimaku_02_36
+  - first:
+      213: 5779368959231249189
+    second: zimaku_02_37
+  - first:
+      213: -1667162148736806036
+    second: zimaku_02_38
+  - first:
+      213: 2127212809535858308
+    second: zimaku_02_39
+  - first:
+      213: -6173563076466498343
+    second: zimaku_02_40
+  - first:
+      213: -6029616131066450296
+    second: zimaku_02_41
+  - first:
+      213: 658657712620259088
+    second: zimaku_02_42
+  - first:
+      213: 6071899220797030533
+    second: zimaku_02_43
+  - first:
+      213: 9178863613746289792
+    second: zimaku_02_44
+  - first:
+      213: -2131427454063671214
+    second: zimaku_02_45
+  - first:
+      213: -813554965891679586
+    second: zimaku_02_46
+  - first:
+      213: 4305197814728233524
+    second: zimaku_02_47
+  - first:
+      213: -245981721616351182
+    second: zimaku_02_48
+  - first:
+      213: -5113755857526876212
+    second: zimaku_02_49
+  - first:
+      213: -4185887248368787447
+    second: zimaku_02_50
+  - first:
+      213: 5198354274081092897
+    second: zimaku_02_51
+  - first:
+      213: 6541391428336446568
+    second: zimaku_02_52
+  - first:
+      213: 4299605165044898386
+    second: zimaku_02_53
+  - first:
+      213: -3738105867333437787
+    second: zimaku_02_54
+  - first:
+      213: -4160102677152643683
+    second: zimaku_02_55
+  - first:
+      213: -6629387358349272803
+    second: zimaku_02_56
+  - first:
+      213: -4835147913974780458
+    second: zimaku_02_57
+  - first:
+      213: -2401640665080348996
+    second: zimaku_02_58
+  - first:
+      213: -2767643102516229425
+    second: zimaku_02_59
+  - first:
+      213: -8145592938124207292
+    second: zimaku_02_60
+  - first:
+      213: 3012492301664085086
+    second: zimaku_02_61
+  - first:
+      213: -8343800333687819337
+    second: zimaku_02_62
+  - first:
+      213: -2745639954252304638
+    second: zimaku_02_63
+  - first:
+      213: -7527776684218764581
+    second: zimaku_02_64
+  - first:
+      213: -6158812378025252716
+    second: zimaku_02_65
+  - first:
+      213: 3686594964164852130
+    second: zimaku_02_66
+  - first:
+      213: 2314493538394486134
+    second: zimaku_02_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zimaku_02_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 226
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75162a2699a0e930800000000000000
+      internalID: 4170519717362406780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 226
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe3a842faacdc0e0800000000000000
+      internalID: -2247917785406882117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 226
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f35b2806fc6b4c0800000000000000
+      internalID: -4271999183097610451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 226
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e6e2486d04a7f20800000000000000
+      internalID: 3421118157026127440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 226
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75cd4b9074dab100800000000000000
+      internalID: 124645519813100923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 226
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bf48c783a513600800000000000000
+      internalID: 446237036740148059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 225
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db035d4d7e32abb70800000000000000
+      internalID: 8915477890948477117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 226
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2737f403da52870800000000000000
+      internalID: 8657516281692648122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 226
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d58681a9941cb20800000000000000
+      internalID: 3152882140319341851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 225
+        width: 73
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf08a2a3a7484a440800000000000000
+      internalID: 4946223951256387836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_10
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 234
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c552baa0c05384950800000000000000
+      internalID: 6433450393533621596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_11
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 225
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c5f5a1f4e326500800000000000000
+      internalID: 387941027373079624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 170
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba997e9317470080800000000000000
+      internalID: -9221323562429080907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 186
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f299f79a5a962b590800000000000000
+      internalID: -7659943855969560273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 169
+        width: 74
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa54789d52149b50800000000000000
+      internalID: 6598919547203639972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 179
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4686e7790a7442aa0800000000000000
+      internalID: -6186741233038235548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 169
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e142dcaec7776ee90800000000000000
+      internalID: -6996773592674524130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 170
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7ad680eaac65ef0800000000000000
+      internalID: -119685491264215135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 170
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e6c3436fd0b4800800000000000000
+      internalID: 597586726646214262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 170
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6f07da70637b760800000000000000
+      internalID: 7473501513247160001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 173
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f42fc3078e7d5a0800000000000000
+      internalID: -6496468368702156897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_21
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 169
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3177761b86f5127b0800000000000000
+      internalID: -5250810787279702253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 178
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94b6a90450141d90800000000000000
+      internalID: -7128054357095435106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_23
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 169
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ecc65584cc94800800000000000000
+      internalID: 597233036646207129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 107
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5801128fc7ad800800000000000000
+      internalID: 637959702374811132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 106
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4235cd8bbe72f98e0800000000000000
+      internalID: -1684583842241031388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 107
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2e48863d99c7720800000000000000
+      internalID: 2845318197861999315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 113
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27996cdc25d76d9c0800000000000000
+      internalID: -3902794232476821134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_28
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 106
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ade8690467147e0800000000000000
+      internalID: -1783013957686076918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_29
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 106
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87d4065f8480b940800000000000000
+      internalID: 5309889711828162444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_30
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd174581b8b2d9d50800000000000000
+      internalID: 6745595693279506911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 106
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192b45531879874c0800000000000000
+      internalID: -4289512063869078895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 106
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df45a46b27b40f00800000000000000
+      internalID: 1082191207475793873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b753d9ccf4a0993c0800000000000000
+      internalID: -4352436227025324677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_34
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 106
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000e1da465cafe9f0800000000000000
+      internalID: -436941152209215488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 106
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ff55035acf32cd0800000000000000
+      internalID: -2583943974769787077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_36
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92030c13bf6fe19e0800000000000000
+      internalID: -1648608854839119831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_37
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 106
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bc5e0b271743050800000000000000
+      internalID: 5779368959231249189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_38
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 106
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63d095dbdc0dd8e0800000000000000
+      internalID: -1667162148736806036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_39
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486ab02a7c0658d10800000000000000
+      internalID: 2127212809535858308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 106
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d42fb44719135aa0800000000000000
+      internalID: -6173563076466498343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 107
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ea1d73310825ca0800000000000000
+      internalID: -6029616131066450296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 106
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0174d4d23b5042900800000000000000
+      internalID: 658657712620259088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_43
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 107
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5800497cb28b34450800000000000000
+      internalID: 6071899220797030533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_44
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 105
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c1b1333dfd16f70800000000000000
+      internalID: 9178863613746289792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_45
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 106
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2580508f506ab62e0800000000000000
+      internalID: -2131427454063671214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_46
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 115
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a75c4a11ca5b4f0800000000000000
+      internalID: -813554965891679586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_47
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 106
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4321aa24a922fbb30800000000000000
+      internalID: 4305197814728233524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 35
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23081dd6de8169cf0800000000000000
+      internalID: -245981721616351182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_49
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 35
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc79904342a4809b0800000000000000
+      internalID: -5113755857526876212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 35
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9002423b9bdb8e5c0800000000000000
+      internalID: -4185887248368787447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 35
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125bc339ba3442840800000000000000
+      internalID: 5198354274081092897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_52
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 35
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c67c6a8d0b7ca50800000000000000
+      internalID: 6541391428336446568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_53
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 34
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a9fe80e144bab30800000000000000
+      internalID: 4299605165044898386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_54
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a679ccd4849f1cc0800000000000000
+      internalID: -3738105867333437787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 35
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d954a2308a85446c0800000000000000
+      internalID: -4160102677152643683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_56
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 34
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d195023525faff3a0800000000000000
+      internalID: -6629387358349272803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_57
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 35
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddef07079a16ecb0800000000000000
+      internalID: -4835147913974780458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_58
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 35
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeb0cf1a88abaed0800000000000000
+      internalID: -2401640665080348996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_59
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 34
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcac579034b5799d0800000000000000
+      internalID: -2767643102516229425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_60
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 35
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b1d26416a05fe80800000000000000
+      internalID: -8145592938124207292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_61
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 35
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54694999c58ec920800000000000000
+      internalID: 3012492301664085086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_62
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 38
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b370c9cdcdd43c80800000000000000
+      internalID: -8343800333687819337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_63
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 35
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20feba5320785e9d0800000000000000
+      internalID: -2745639954252304638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_64
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 38
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd23ca45df6f78790800000000000000
+      internalID: -7527776684218764581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_65
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 34
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498a681e5c0878aa0800000000000000
+      internalID: -6158812378025252716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_66
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 43
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a93ac5669a692330800000000000000
+      internalID: 3686594964164852130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zimaku_02_67
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 34
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675b0f64c9bbe1020800000000000000
+      internalID: 2314493538394486134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

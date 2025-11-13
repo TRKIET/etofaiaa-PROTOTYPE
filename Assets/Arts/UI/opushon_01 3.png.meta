@@ -1,0 +1,1710 @@
+fileFormatVersion: 2
+guid: 6db4e9826746afe42ba34f0737b46379
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1071928223718608649
+    second: opushon_01 3_0
+  - first:
+      213: -3775660479241338730
+    second: opushon_01 3_1
+  - first:
+      213: 6401173704207737835
+    second: opushon_01 3_2
+  - first:
+      213: -8369186497166704091
+    second: opushon_01 3_3
+  - first:
+      213: -3528528482281509015
+    second: opushon_01 3_4
+  - first:
+      213: -2103763474555226073
+    second: opushon_01 3_5
+  - first:
+      213: 6106013101736173376
+    second: opushon_01 3_6
+  - first:
+      213: -7648036632082086499
+    second: opushon_01 3_7
+  - first:
+      213: 354215034641651109
+    second: opushon_01 3_8
+  - first:
+      213: -8601879066077711147
+    second: opushon_01 3_9
+  - first:
+      213: -987960756902857579
+    second: opushon_01 3_10
+  - first:
+      213: -7901451297826388747
+    second: opushon_01 3_11
+  - first:
+      213: -6291149822609103032
+    second: opushon_01 3_12
+  - first:
+      213: -5708893823331162495
+    second: opushon_01 3_13
+  - first:
+      213: 7752752195544057632
+    second: opushon_01 3_14
+  - first:
+      213: -609645520242354025
+    second: opushon_01 3_15
+  - first:
+      213: 3057486129099990385
+    second: opushon_01 3_16
+  - first:
+      213: -6945252374096252829
+    second: opushon_01 3_17
+  - first:
+      213: -4491798701011542945
+    second: opushon_01 3_18
+  - first:
+      213: 2333221876301418414
+    second: opushon_01 3_19
+  - first:
+      213: 8652664903120230464
+    second: opushon_01 3_20
+  - first:
+      213: -3021693967812719106
+    second: opushon_01 3_21
+  - first:
+      213: 68637334633406554
+    second: opushon_01 3_22
+  - first:
+      213: -146534468199683489
+    second: opushon_01 3_23
+  - first:
+      213: 6679681826085974091
+    second: opushon_01 3_24
+  - first:
+      213: 2242419051109237634
+    second: opushon_01 3_25
+  - first:
+      213: -9204984339544529455
+    second: opushon_01 3_26
+  - first:
+      213: -2032531697350258202
+    second: opushon_01 3_27
+  - first:
+      213: 8491955464485301659
+    second: opushon_01 3_28
+  - first:
+      213: -8709245823834739128
+    second: opushon_01 3_29
+  - first:
+      213: -7858944956569669794
+    second: opushon_01 3_30
+  - first:
+      213: 5430242965992717118
+    second: opushon_01 3_31
+  - first:
+      213: 3015958585739665195
+    second: opushon_01 3_32
+  - first:
+      213: 3388986916219899375
+    second: opushon_01 3_33
+  - first:
+      213: 5234197973113055970
+    second: opushon_01 3_34
+  - first:
+      213: 7694597711948423979
+    second: opushon_01 3_35
+  - first:
+      213: 5613770769374265867
+    second: opushon_01 3_36
+  - first:
+      213: -8443570548438793769
+    second: opushon_01 3_37
+  - first:
+      213: 6213930831493196052
+    second: opushon_01 3_38
+  - first:
+      213: 9145243674657246623
+    second: opushon_01 3_39
+  - first:
+      213: -9192827877004477389
+    second: opushon_01 3_40
+  - first:
+      213: 4648767970446213265
+    second: opushon_01 3_41
+  - first:
+      213: 4571013433219735056
+    second: opushon_01 3_42
+  - first:
+      213: 6419906878417799515
+    second: opushon_01 3_43
+  - first:
+      213: 4981304648810545221
+    second: opushon_01 3_44
+  - first:
+      213: -842401539047434675
+    second: opushon_01 3_45
+  - first:
+      213: 8555385978494072836
+    second: opushon_01 3_46
+  - first:
+      213: -3912640223826431328
+    second: opushon_01 3_47
+  - first:
+      213: -2790459080444563710
+    second: opushon_01 3_48
+  - first:
+      213: 3076833065650423025
+    second: opushon_01 3_49
+  - first:
+      213: -1428591719299214817
+    second: opushon_01 3_50
+  - first:
+      213: 6759584405631466812
+    second: opushon_01 3_51
+  - first:
+      213: 2583376278270221041
+    second: opushon_01 3_52
+  - first:
+      213: 7581918974521410851
+    second: opushon_01 3_53
+  - first:
+      213: 3893328439522358781
+    second: opushon_01 3_54
+  - first:
+      213: -1012368248940797879
+    second: opushon_01 3_55
+  - first:
+      213: -1423117514495882450
+    second: opushon_01 3_56
+  - first:
+      213: -4023922554457831709
+    second: opushon_01 3_57
+  - first:
+      213: -5531186947547880382
+    second: opushon_01 3_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: opushon_01 3_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 954
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f07988b5febf11f0800000000000000
+      internalID: -1071928223718608649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 956
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690c6566cc82a9bc0800000000000000
+      internalID: -3775660479241338730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1005
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3afd0b19985d850800000000000000
+      internalID: 6401173704207737835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 955
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5220261093daadb80800000000000000
+      internalID: -8369186497166704091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1011
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f23c15a06280fc0800000000000000
+      internalID: -3528528482281509015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1011
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728b1bf144eedc2e0800000000000000
+      internalID: -2103763474555226073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 957
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f9dd2a09aecb450800000000000000
+      internalID: 6106013101736173376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_7
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 952
+        width: 182
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9582934437bcd590800000000000000
+      internalID: -7648036632082086499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 987
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a51be182bc6ae400800000000000000
+      internalID: 354215034641651109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 981
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4b199609cff9880800000000000000
+      internalID: -8601879066077711147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 956
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59477c01dee0a42f0800000000000000
+      internalID: -987960756902857579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_11
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 895
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4420788e7685290800000000000000
+      internalID: -7901451297826388747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_12
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 897
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8476f9a719851b8a0800000000000000
+      internalID: -6291149822609103032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_13
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 923
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186acef805fe5c0b0800000000000000
+      internalID: -5708893823331162495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_14
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 897
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0278807cb0f479b60800000000000000
+      internalID: 7752752195544057632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_15
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 826
+        width: 182
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798db0f11aa1a87f0800000000000000
+      internalID: -609645520242354025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_16
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 878
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17560b66f6f5e6a20800000000000000
+      internalID: 3057486129099990385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_17
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 759
+        width: 124
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360fd8663c18d9f90800000000000000
+      internalID: -6945252374096252829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_18
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 670
+        width: 182
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c55a741ece9a1c0800000000000000
+      internalID: -4491798701011542945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 695
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafcd1f3fe4416020800000000000000
+      internalID: 2333221876301418414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 700
+        width: 58
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04898f6b2e0741870800000000000000
+      internalID: 8652664903120230464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 708
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd059c8859c016d0800000000000000
+      internalID: -3021693967812719106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 701
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50672dca49d3f000800000000000000
+      internalID: 68637334633406554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_23
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 707
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a6b937da767fdf0800000000000000
+      internalID: -146534468199683489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 664
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40bc78fa3ff2bc50800000000000000
+      internalID: 6679681826085974091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 697
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2834fe20f3cae1f10800000000000000
+      internalID: 2242419051109237634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 687
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d52a666383514080800000000000000
+      internalID: -9204984339544529455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_27
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 664
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e157b8a03ffac3e0800000000000000
+      internalID: -2032531697350258202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 664
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d651da08c79d570800000000000000
+      internalID: 8491955464485301659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 665
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ea6c8111b822780800000000000000
+      internalID: -8709245823834739128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 665
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f2152533b6fe290800000000000000
+      internalID: -7858944956569669794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_31
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 473
+        width: 531
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b3f08f4391c5b40800000000000000
+      internalID: 5430242965992717118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_32
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 521
+        width: 142
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f5d40ca56dad920800000000000000
+      internalID: 3015958585739665195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_33
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 527
+        width: 421
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedcbb905a9180f20800000000000000
+      internalID: 3388986916219899375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_34
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 506
+        width: 239
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea2977135b93a840800000000000000
+      internalID: 5234197973113055970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_35
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 538
+        width: 185
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23283ee9d3b8ca60800000000000000
+      internalID: 7694597711948423979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_36
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 493
+        width: 317
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02460f85ce18ed40800000000000000
+      internalID: 5613770769374265867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_37
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 538
+        width: 239
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d10b58725962da80800000000000000
+      internalID: -8443570548438793769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_38
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 494
+        width: 334
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419effd1b215c3650800000000000000
+      internalID: 6213930831493196052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 381
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d45542bae6aee70800000000000000
+      internalID: 9145243674657246623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 381
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cf6d560c38c6080800000000000000
+      internalID: -9192827877004477389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_41
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 422
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19009a1c6ddb38040800000000000000
+      internalID: 4648767970446213265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 380
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed99ecf708f6f30800000000000000
+      internalID: 4571013433219735056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 381
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b590e23ba47181950800000000000000
+      internalID: 6419906878417799515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_44
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 381
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540ca5e9f26212540800000000000000
+      internalID: 4981304648810545221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_45
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 221
+        width: 531
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46d5d273403f44f0800000000000000
+      internalID: -842401539047434675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_46
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 313
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4083f741836dab670800000000000000
+      internalID: 8555385978494072836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_47
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 275
+        width: 421
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2bbec427283b9c0800000000000000
+      internalID: -3912640223826431328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_48
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 286
+        width: 185
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fa6d5304c4649d0800000000000000
+      internalID: -2790459080444563710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_49
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 286
+        width: 239
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f405471f5b13ba20800000000000000
+      internalID: 3076833065650423025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 250
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f121b1a766f9c2ce0800000000000000
+      internalID: -1428591719299214817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 250
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dfeeef33edecd50800000000000000
+      internalID: 6759584405631466812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_52
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 269
+        width: 142
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa977ba90ff9d320800000000000000
+      internalID: 2583376278270221041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_53
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 254
+        width: 239
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3258428f223683960800000000000000
+      internalID: 7581918974521410851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_54
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 241
+        width: 317
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5f7a78691e70630800000000000000
+      internalID: 3893328439522358781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_55
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 242
+        width: 334
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940effbf07853f1f0800000000000000
+      internalID: -1012368248940797879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_56
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 120
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b06da1922104ce0800000000000000
+      internalID: -1423117514495882450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_57
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 120
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6cbd1a1c72828c0800000000000000
+      internalID: -4023922554457831709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_58
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 120
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244a125d6c64d33b0800000000000000
+      internalID: -5531186947547880382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_59
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 473
+        width: 1080
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b330fa93aaa03c468f7c931e1a8a089
+      internalID: -634724755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opushon_01 3_60
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 222
+        width: 1080
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bba3f6a35d43634bb3450b032526fe6
+      internalID: 1480648837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e2a204f703cf1ee4aa356e3e100220cc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      opushon_01 3_0: -1071928223718608649
+      opushon_01 3_1: -3775660479241338730
+      opushon_01 3_10: -987960756902857579
+      opushon_01 3_11: -7901451297826388747
+      opushon_01 3_12: -6291149822609103032
+      opushon_01 3_13: -5708893823331162495
+      opushon_01 3_14: 7752752195544057632
+      opushon_01 3_15: -609645520242354025
+      opushon_01 3_16: 3057486129099990385
+      opushon_01 3_17: -6945252374096252829
+      opushon_01 3_18: -4491798701011542945
+      opushon_01 3_19: 2333221876301418414
+      opushon_01 3_2: 6401173704207737835
+      opushon_01 3_20: 8652664903120230464
+      opushon_01 3_21: -3021693967812719106
+      opushon_01 3_22: 68637334633406554
+      opushon_01 3_23: -146534468199683489
+      opushon_01 3_24: 6679681826085974091
+      opushon_01 3_25: 2242419051109237634
+      opushon_01 3_26: -9204984339544529455
+      opushon_01 3_27: -2032531697350258202
+      opushon_01 3_28: 8491955464485301659
+      opushon_01 3_29: -8709245823834739128
+      opushon_01 3_3: -8369186497166704091
+      opushon_01 3_30: -7858944956569669794
+      opushon_01 3_31: 5430242965992717118
+      opushon_01 3_32: 3015958585739665195
+      opushon_01 3_33: 3388986916219899375
+      opushon_01 3_34: 5234197973113055970
+      opushon_01 3_35: 7694597711948423979
+      opushon_01 3_36: 5613770769374265867
+      opushon_01 3_37: -8443570548438793769
+      opushon_01 3_38: 6213930831493196052
+      opushon_01 3_39: 9145243674657246623
+      opushon_01 3_4: -3528528482281509015
+      opushon_01 3_40: -9192827877004477389
+      opushon_01 3_41: 4648767970446213265
+      opushon_01 3_42: 4571013433219735056
+      opushon_01 3_43: 6419906878417799515
+      opushon_01 3_44: 4981304648810545221
+      opushon_01 3_45: -842401539047434675
+      opushon_01 3_46: 8555385978494072836
+      opushon_01 3_47: -3912640223826431328
+      opushon_01 3_48: -2790459080444563710
+      opushon_01 3_49: 3076833065650423025
+      opushon_01 3_5: -2103763474555226073
+      opushon_01 3_50: -1428591719299214817
+      opushon_01 3_51: 6759584405631466812
+      opushon_01 3_52: 2583376278270221041
+      opushon_01 3_53: 7581918974521410851
+      opushon_01 3_54: 3893328439522358781
+      opushon_01 3_55: -1012368248940797879
+      opushon_01 3_56: -1423117514495882450
+      opushon_01 3_57: -4023922554457831709
+      opushon_01 3_58: -5531186947547880382
+      opushon_01 3_59: -634724755
+      opushon_01 3_6: 6106013101736173376
+      opushon_01 3_60: 1480648837
+      opushon_01 3_7: -7648036632082086499
+      opushon_01 3_8: 354215034641651109
+      opushon_01 3_9: -8601879066077711147
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
