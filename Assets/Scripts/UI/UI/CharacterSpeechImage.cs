@@ -6,7 +6,7 @@ public class CharacterSpeechImage : MonoBehaviour
     public Image dialogueImage;       // セリフ画像を表示するUI
     public GameObject dialogueBox;    // 吹き出しの枠
     public Sprite[] lineSprites;      // セリフ画像の配列
-    public float autoCloseTime = 3f;  // 最後のクリックから閉じるまでの秒数
+    public float autoCloseTime ;  // 最後のクリックから閉じるまでの秒数
 
     private int currentLine = 0;
 
